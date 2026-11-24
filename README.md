@@ -1,166 +1,134 @@
-<!-- ═══════════════ HEADER / BANNER ═══════════════ -->
 <div align="center">
 
-<img src="./assets/banner.png" alt="Rayhan Hossain — Developer • Digital Creator" width="100%" />
+  <img src="./assets/github-banner.png" alt="Rayhan Hossain — Developer • Digital Creator" width="100%" />
 
-<br/>
+  <h1>Hey, I'm Rayhan Hossain 👋</h1>
+  <h3>Developer · Digital Creator</h3>
 
-<a href="https://github.com/rayhanhossain-pro">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=640&lines=Hi+there%2C+I'm+Md+Rayhan+Hossain+%F0%9F%91%8B;Full-Stack+Developer+%E2%80%A2+Digital+Creator;CS+Student+%7C+Building+in+Public;Code.+Create.+Grow." alt="Typing SVG" />
-</a>
+  <p><em>Code. Create. Grow.</em></p>
 
-<br/>
+  <p>
+    <a href="https://github.com/rayhanhossain-pro">
+      <img src="https://img.shields.io/badge/GitHub-111014?style=for-the-badge&logo=github&logoColor=F5F3F7" alt="GitHub" />
+    </a>
+    <a href="https://www.linkedin.com/in/rayhanhossainofficial/">
+      <img src="https://img.shields.io/badge/LinkedIn-111014?style=for-the-badge&logo=linkedin&logoColor=A855F7" alt="LinkedIn" />
+    </a>
+    <a href="https://www.facebook.com/rayhanhossain.pro/">
+      <img src="https://img.shields.io/badge/Facebook-111014?style=for-the-badge&logo=facebook&logoColor=A855F7" alt="Facebook" />
+    </a>
+  </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rayhanhossain-pro&label=Profile+Views&color=A855F7&style=for-the-badge&labelColor=111014)
-![Followers](https://img.shields.io/github/followers/rayhanhossain-pro?label=Followers&style=for-the-badge&color=A855F7&labelColor=111014&logo=github&logoColor=F5F3F7)
-![Repos](https://img.shields.io/badge/Public_Repos-Growing-A855F7?style=for-the-badge&labelColor=111014&logo=git&logoColor=F5F3F7)
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=rayhanhossain-pro&style=flat&color=A855F7&label=PROFILE+VIEWS" alt="Profile views" />
+  </p>
 
 </div>
 
-<br/>
+---
 
-<!-- ═══════════════ ABOUT ME ═══════════════ -->
-## 👨‍💻 About Me
+## `01 / About Me`
 
-```js
-const rayhan = {
-  name: "Md Rayhan Hossain",
-  role: "Full-Stack Developer & Digital Creator",
-  education: "CS Student (CST) @ Polytechnic Institute",
-  location: "Dhaka, Bangladesh 🇧🇩",
-  languages: ["বাংলা", "English"],
-  currentFocus: "Next.js, TypeScript & Full-Stack Web Apps",
-  motto: "Code. Create. Grow.",
-};
-```
+I'm a developer-first digital creator from Bangladesh who enjoys turning ideas into useful digital experiences. I work mainly around modern web development, while also exploring the creative and growth side of the digital world — from UI design and content creation to SEO and digital marketing.
 
-I'm a second-year Computer Science student who loves turning ideas into real, shipped products. I build clean, responsive web apps, learn something new every week, and share the whole journey publicly. My goal is simple: **write better code, build useful things, and grow with the community.**
+I believe in learning by building, sharing what I learn, and improving one project at a time.
 
-<br/>
+- 🔭 Currently building and improving web projects with **React and Next.js**.
+- 🌱 Strengthening my skills in **JavaScript, TypeScript, APIs, and full-stack development**.
+- 🧩 Exploring authentication, databases, responsive UI, and better application architecture.
+- 🎨 Interested in UI design, graphic design, and AI-powered content creation.
+- 📈 Also exploring SEO, Meta Ads, Google Ads, and web analytics.
+- 🤝 Open to learning, collaboration, and meaningful beginner-friendly open-source projects.
 
-<!-- ═══════════════ CURRENT ACTIVITY ═══════════════ -->
-## 🔭 What I'm Up To
+---
 
-- 🚀 Building **BazarDor** — a Next.js app with authentication and a MongoDB backend
-- 🌱 Deep-diving into **Next.js (App Router)** and **TypeScript**
-- 🧰 Crafting **DevStack Builder** — a tool to browse technologies and build your own stack
-- 🎨 Polishing my **bilingual portfolio website** (English + বাংলা)
-- 📈 Documenting my dev journey on **LinkedIn** — learning in public
-- 🔐 Next on my roadmap: **Cybersecurity**, then **AI/ML**
+## `02 / Tech Stack & Tools`
 
-<br/>
+<p align="center">
+  <strong>Frontend</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark" alt="Frontend skills" />
+</p>
 
-<!-- ═══════════════ SKILLS ═══════════════ -->
-## 🛠️ Tech Stack & Skills
+<p align="center">
+  <strong>Backend & Database</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend and database skills" />
+</p>
+
+<p align="center">
+  <strong>Tools & Creative</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ps&theme=dark" alt="Tools and creative skills" />
+</p>
+
+<p align="center">
+  <strong>Digital Growth</strong><br/><br/>
+  <img src="https://img.shields.io/badge/SEO-111014?style=for-the-badge&logo=google&logoColor=A855F7" alt="SEO" />
+  <img src="https://img.shields.io/badge/Google_Ads-111014?style=for-the-badge&logo=googleads&logoColor=A855F7" alt="Google Ads" />
+  <img src="https://img.shields.io/badge/Meta_Ads-111014?style=for-the-badge&logo=meta&logoColor=A855F7" alt="Meta Ads" />
+  <img src="https://img.shields.io/badge/Web_Analytics-111014?style=for-the-badge&logo=googleanalytics&logoColor=A855F7" alt="Web Analytics" />
+</p>
+
+---
+
+## `03 / Selected Projects`
+
+A few projects from my hands-on learning journey. Each one helps me practice, experiment, and get better at building for the web.
+
+| Project | What it is | Built with |
+|:--|:--|:--|
+| **[BazarDor](https://github.com/rayhanhossain-pro/BazarDor)** | A Bangla-friendly marketplace / daily market-price web project. | Next.js · React · Tailwind CSS · MongoDB |
+| **Fit Log** | A workout library and personal workout-planning experience. | Next.js · React · TypeScript · Tailwind CSS |
+| **DevStack** | A technology explorer for discovering tools and building a personal development stack. | React · TypeScript · Tailwind CSS |
+| **DevConf 2026** | A responsive landing page concept for a developer conference. | HTML · CSS · JavaScript |
+
+<p align="center">
+  <a href="https://github.com/rayhanhossain-pro?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_All_Repositories-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
+  </a>
+</p>
+
+---
+
+## `04 / GitHub Overview`
 
 <div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark" alt="Languages" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite&theme=dark" alt="Frontend" />
-
-**Backend & Database**
-
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb&theme=dark" alt="Backend" />
-
-**Tools & Deployment**
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,figma&theme=dark" alt="Tools" />
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rayhanhossain-pro&show_icons=true&hide_border=true&bg_color=111014&title_color=A855F7&icon_color=D8B4FE&text_color=F5F3F7&ring_color=A855F7" alt="Rayhan's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanhossain-pro&layout=compact&hide_border=true&bg_color=111014&title_color=A855F7&text_color=F5F3F7" alt="Most used languages" />
 </div>
 
-<br/>
-
-<!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-| :-- | :-- | :-- |
-| 🛒 **BazarDor** | Market price tracker with auth and Figma-accurate UI | `Next.js` `Tailwind` `MongoDB` `BetterAuth` |
-| 🧱 **DevStack Builder** | Browse technologies and build a personalized stack | `React` `TypeScript` `Vite` `Tailwind` |
-| 🍽️ **Ember & Oak** | Six-page restaurant website with live clock, filtered menu & reservation popup | `HTML` `CSS` `JavaScript` `Bootstrap` |
-| 📥 **MediaGrab** | Media downloader tool, deployed on Vercel | `React` `Vite` `Vercel` |
-
-> 🔗 See everything on my [**repositories page →**](https://github.com/rayhanhossain-pro?tab=repositories)
-
-<br/>
-
-<!-- ═══════════════ GITHUB STATS ═══════════════ -->
-## 📊 GitHub Stats
-
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rayhanhossain-pro&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&bg_color=111014&title_color=A855F7&text_color=F5F3F7&icon_color=D8B4FE&border_color=3B2A5A&border_radius=12" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanhossain-pro&layout=compact&langs_count=8&bg_color=111014&title_color=A855F7&text_color=F5F3F7&border_color=3B2A5A&border_radius=12" alt="Top Languages" />
-
-<img src="https://streak-stats.demolab.com?user=rayhanhossain-pro&theme=dark&background=111014&ring=A855F7&fire=D8B4FE&currStreakLabel=F5F3F7&sideLabels=D8B4FE&currStreakNum=F5F3F7&sideNums=F5F3F7&dates=A0A0A8&stroke=3B2A5A&border=3B2A5A&hide_border=false&border_radius=12" alt="GitHub Streak" />
-
+  <img src="https://streak-stats.demolab.com?user=rayhanhossain-pro&hide_border=true&background=111014&ring=A855F7&fire=D8B4FE&currStreakLabel=F5F3F7&sideLabels=F5F3F7&currStreakNum=F5F3F7&sideNums=F5F3F7&dates=9B91A5" alt="GitHub contribution streak" width="70%" />
 </div>
 
-<br/>
+---
 
-<!-- ═══════════════ CONTRIBUTION GRAPH ═══════════════ -->
-## 📈 Contribution Activity
+## `05 / Beyond the Code`
+
+When I'm not coding, I'm usually exploring design ideas, experimenting with AI-powered creative tools, learning about digital marketing, or documenting something useful from my learning journey.
+
+I enjoy the intersection of **technology × creativity × growth**.
+
+---
+
+## `06 / Let's Connect`
+
+Have an idea, want to collaborate, or just want to talk about development and creativity? Feel free to reach out.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rayhanhossainofficial/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/rayhanhossain.pro/">
+    <img src="https://img.shields.io/badge/Facebook-Follow-111014?style=for-the-badge&logo=facebook&logoColor=D8B4FE" alt="Follow on Facebook" />
+  </a>
+  <a href="https://github.com/rayhanhossain-pro">
+    <img src="https://img.shields.io/badge/GitHub-Follow-111014?style=for-the-badge&logo=github&logoColor=F5F3F7" alt="Follow on GitHub" />
+  </a>
+</p>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rayhanhossain-pro&bg_color=111014&color=D8B4FE&line=A855F7&point=F5F3F7&area=true&area_color=A855F7&hide_border=true" alt="Contribution Graph" width="100%" />
+  **「 BUILDING · LEARNING · SHIPPING 」**
 
-</div>
-
-<br/>
-
-<!-- ═══════════════ TROPHIES ═══════════════ -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rayhanhossain-pro&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub Trophies" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════════ SOCIAL LINKS ═══════════════ -->
-## 🌐 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/rayhanhossainofficial">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-A855F7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111014" alt="LinkedIn" />
-</a>
-<a href="https://github.com/rayhanhossain-pro">
-  <img src="https://img.shields.io/badge/GitHub-Follow-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=111014" alt="GitHub" />
-</a>
-<a href="https://www.facebook.com/rayhanhossain.pro">
-  <img src="https://img.shields.io/badge/Facebook-Follow-A855F7?style=for-the-badge&logo=facebook&logoColor=white&labelColor=111014" alt="Facebook" />
-</a>
-<!-- Add when ready:
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111014" alt="Email" />
-</a>
-<a href="https://YOUR-PORTFOLIO-URL">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111014" alt="Portfolio" />
-</a>
--->
-
-</div>
-
-<br/>
-
-<!-- ═══════════════ QUOTE + FOOTER ═══════════════ -->
-<div align="center">
-
-### 💬 "First, solve the problem. Then, write the code."
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=F5F3F7&animation=fadeIn&fontAlignY=70" width="100%" alt="Footer" />
-
-⭐ *If you like my work, drop a star on my repos!* ⭐
+  <sub>Thanks for stopping by. Keep building. ✨</sub>
 
 </div>
