@@ -2,8 +2,9 @@
 
   <img src="./assets/github-banner.png" alt="Rayhan Hossain — Developer • Digital Creator" width="100%" />
 
-  <h1>Hey, I'm Rayhan Hossain 👋</h1>
-  <h3>Developer · Digital Creator</h3>
+  <a href="https://github.com/rayhanhossain-pro">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=640&lines=Hi+there%2C+I'm+Md+Rayhan+Hossain+%F0%9F%91%8B;Full-Stack+Developer+%E2%80%A2+Digital+Creator;CS+Student+%7C+Building+in+Public;Code.+Create.+Grow." alt="Typing SVG" />
+  </a>
 
   <p><em>Code. Create. Grow.</em></p>
 
@@ -73,12 +74,12 @@ I believe in learning by building, sharing what I learn, and improving one proje
 
 A few projects from my hands-on learning journey. Each one helps me practice, experiment, and get better at building for the web.
 
-| Project | What it is | Built with |
-|:--|:--|:--|
-| **[BazarDor](https://github.com/rayhanhossain-pro/BazarDor)** | A Bangla-friendly marketplace / daily market-price web project. | Next.js · React · Tailwind CSS · MongoDB |
-| **Fit Log** | A workout library and personal workout-planning experience. | Next.js · React · TypeScript · Tailwind CSS |
-| **DevStack** | A technology explorer for discovering tools and building a personal development stack. | React · TypeScript · Tailwind CSS |
-| **DevConf 2026** | A responsive landing page concept for a developer conference. | HTML · CSS · JavaScript |
+| Project                                                       | What it is                                                                             | Built with                                  |
+| :------------------------------------------------------------ | :------------------------------------------------------------------------------------- | :------------------------------------------ |
+| **[BazarDor](https://github.com/rayhanhossain-pro/BazarDor)** | A Bangla-friendly marketplace / daily market-price web project.                        | Next.js · React · Tailwind CSS · MongoDB    |
+| **Fit Log**                                                   | A workout library and personal workout-planning experience.                            | Next.js · React · TypeScript · Tailwind CSS |
+| **DevStack**                                                  | A technology explorer for discovering tools and building a personal development stack. | React · TypeScript · Tailwind CSS           |
+| **DevConf 2026**                                              | A responsive landing page concept for a developer conference.                          | HTML · CSS · JavaScript                     |
 
 <p align="center">
   <a href="https://github.com/rayhanhossain-pro?tab=repositories">
@@ -127,8 +128,8 @@ Have an idea, want to collaborate, or just want to talk about development and cr
 
 <div align="center">
 
-  **「 BUILDING · LEARNING · SHIPPING 」**
+**「 BUILDING · LEARNING · SHIPPING 」**
 
-  <sub>Thanks for stopping by. Keep building. ✨</sub>
+<sub>Thanks for stopping by. Keep building. ✨</sub>
 
 </div>
